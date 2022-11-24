@@ -10,3 +10,5 @@ In this project, we were instructed to create a website in which we provide demo
  - A Bubble Chart of the Bacteria Cultures Per Sample
 
 Each time the user chooses another ID, the graphs will change as well as the information. This project was made in an attempt to prove the hypothesis that there exist a  bacteria found in humans that could bring us closer to the taste of beef.
+
+*** I couldn't figure out how to submit both links so here is the link to the website: https://danira98.github.io/Plotly_deployment/ ***
